@@ -1,0 +1,17 @@
+Using Selenium/Cypress with the Page Object Model Framework and any programming language of your choice:
+- interact with the GUI of this website: [OrangeHRM Live Demo](https://opensource-demo.orangehrmlive.com)
+
+ Perform the following actions:
+ Question 1: Write a test script to create, edit, and delete an "Admin."
+ Steps: 1. Login with the following credentials:
+  - Username: `Admin`
+  - Password: `admin123`
+ 2. Navigate to "Admin" on the side navigation bar.
+ 3. Click on "Add."
+
+
+
+ Question 2: Write a test script to create, edit, and delete an "Employee.
+ Steps: 1. Login with the following credentials: - Username: `Admin` - Password: `admin123`
+ 2. Navigate to "PIM" on the side navigation bar.
+ 3. Click on "Add." *
